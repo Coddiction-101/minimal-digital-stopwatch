@@ -13,7 +13,7 @@ Designed to be user-friendly and responsive, it allows you to start, stop, and r
 - Displays time in MM:SS:HH format (minutes, seconds, hundredths)  
 - Smooth and clear UI design with minimal distraction  
 - Responsive layout centered vertically and horizontally  
-- Uses consistent monospace font for stable timer display  
+- Uses a consistent monospace font for stable timer display  
 - Accessible with clear button states and roles  
 
 ## Usage
@@ -46,8 +46,5 @@ Designed to be user-friendly and responsive, it allows you to start, stop, and r
 
 This project is open source and available under the MIT License.
 
-## Screenshots
-
- 
-
+## Screenshot
 <img width="916" height="696" alt="Screenshot 2025-08-23 221523" src="https://github.com/user-attachments/assets/62d2db5f-e172-443b-a213-b7581740a1d5" />
