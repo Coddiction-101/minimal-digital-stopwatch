@@ -50,3 +50,4 @@ This project is open source and available under the MIT License.
 
  
 
+<img width="916" height="696" alt="Screenshot 2025-08-23 221523" src="https://github.com/user-attachments/assets/62d2db5f-e172-443b-a213-b7581740a1d5" />
