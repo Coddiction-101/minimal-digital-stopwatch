@@ -3,6 +3,7 @@ A sleek and user-friendly stopwatch web application built with HTML, CSS, and Ja
 -----
 
 # Stopwatch Web App
+# Demo : https://minimal-digital-stopwatch.netlify.app/
 
 A simple and elegant stopwatch web application built with HTML, CSS, and JavaScript.  
 Designed to be user-friendly and responsive, it allows you to start, stop, and reset a precise timer displaying minutes, seconds, and hundredths of a second.
@@ -48,3 +49,5 @@ This project is open source and available under the MIT License.
 
 ## Screenshot
 <img width="916" height="696" alt="Screenshot 2025-08-23 221523" src="https://github.com/user-attachments/assets/62d2db5f-e172-443b-a213-b7581740a1d5" />
+
+
