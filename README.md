@@ -1,8 +1,6 @@
-__minimal-digital-stopwatch
-A sleek and user-friendly stopwatch web application built with HTML, CSS, and JavaScript. It features precise timing with start, stop, and reset controls, displaying minutes, seconds, and hundredths of a second in a smooth, visually stable interface.__
+_minimal-digital-stopwatch
+A sleek and user-friendly stopwatch web application built with HTML, CSS, and JavaScript. It features precise timing with start, stop, and reset controls, displaying minutes, seconds, and hundredths of a second in a smooth, visually stable interface._
 
-
-# Stopwatch Web App
 Demo : https://minimal-digital-stopwatch.netlify.app/
 
 A simple and elegant stopwatch web application built with HTML, CSS, and JavaScript.  
