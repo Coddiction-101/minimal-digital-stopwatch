@@ -33,7 +33,7 @@ Designed to be user-friendly and responsive, it allows you to start, stop, and r
 - Uses `setInterval` with 60fps update rate for smooth timing  
 - Calculates elapsed time based on timestamps for accuracy  
 - Formats displayed time with leading zeros for consistent width  
-- Fixes timer shaking by using monospace font and fixed width  
+- Fixes timer shaking by using a monospace font and a fixed width  
 
 ## Future Improvements
 
